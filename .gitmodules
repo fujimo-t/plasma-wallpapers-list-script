@@ -1,0 +1,3 @@
+[submodule "plasma-workspace-wallpapers"]
+	path = plasma-workspace-wallpapers
+	url = https://github.com/KDE/plasma-workspace-wallpapers.git
